@@ -1,2 +1,2 @@
 # spring-boot
-This repository containes spring boot code examples which explains the features of spring-boot. 
+This repository contains spring boot examples which explains the features of spring boot. 
